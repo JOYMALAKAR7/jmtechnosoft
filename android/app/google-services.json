@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "168337787241",
+    "project_id": "jmtechnosoft-2d138",
+    "storage_bucket": "jmtechnosoft-2d138.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168337787241:android:5c22c2e1831b2f5a8a15f8",
+        "android_client_info": {
+          "package_name": "com.jmtechnosoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168337787241-0ejjq337cg7liaks82aj57qegjlbrckt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jmtechnosoft",
+            "certificate_hash": "c055bd1fb1b637069c2458d5066f2808420d18da"
+          }
+        },
+        {
+          "client_id": "168337787241-hegu7s2ojjpukhkctfg8o07ot0ls3c8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC11W4j8QwWD9rH-88NR_DOr1OlijVn6tg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168337787241-hegu7s2ojjpukhkctfg8o07ot0ls3c8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
